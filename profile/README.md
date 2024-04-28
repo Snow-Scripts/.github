@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# ❄ Welcome to the Snow Scripts Store ❄
+# ❄ Welcome to the Snow Scripts Github ❄
 
 I'm Articca / Foxxite, I create high quality scripts for QBCore. My work is tested, upgraded, and improved daily.
 
